@@ -1,0 +1,213 @@
+<<!DOCTYPE html>
+<html>
+<head>
+    <title>Home Page - Nurul Syuhada</title>
+</head>
+<body>
+
+<h1>Welcome to My Personal Website</h1>
+
+<hr>
+
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="biodata.html">Biodata</a> |
+    <a href="experience.html">Experience</a> |
+    <a href="education.html">Education</a> |
+    <a href="family.html">Family</a> |
+    <a href="gallery.html">Gallery</a>
+</nav>
+
+<hr>
+
+<img src="images/profile.jpg" alt="My Photo" width="200">
+
+<h2>Introduction</h2>
+
+<p>
+Hello! My name is Nurul Syuhada. Welcome to my personal website.
+This website contains information about my biodata, education,
+experience, family and gallery.
+</p>
+
+<hr>
+
+<p><b>Created by:</b> Nurul Syuhada Amran</p>
+<p>&copy; 2026 All Rights Reserved.</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodata - Nurul Syuhada</title>
+</head>
+<body>
+
+<h1>My Biodata</h1>
+
+<a href="index.html">Home</a>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Information</th>
+        <th>Details</th>
+    </tr>
+    <tr>
+        <td>Full Name</td>
+        <td>Nurul Syuhada Amran</td>
+    </tr>
+    <tr>
+        <td>Age</td>
+        <td>22</td>
+    </tr>
+    <tr>
+        <td>Gender</td>
+        <td>Female</td>
+    </tr>
+    <tr>
+        <td>Email</td>
+        <td>syuhadaamran@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Hobby</td>
+        <td>Reading, Travelling, Photography</td>
+    </tr>
+</table>
+
+<hr>
+
+<p><b>Created by:</b> Nurul Syuhada Amran</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Experience - Nurul Syuhada</title>
+</head>
+<body>
+
+<h1>My Experience</h1>
+
+<a href="index.html">Home</a>
+
+<h2>Internship Experience</h2>
+
+<ul>
+    <li>Intern at Mega Imperium Seremban Negeri Sembilan.</li>
+    <li>Managed attendance records.</li>
+    <li>Performed data entry tasks.</li>
+    <li>Handled filing and document management.</li>
+</ul>
+
+<h2>Skills Gained</h2>
+
+<ol>
+    <li>Communication Skills</li>
+    <li>Information Management</li>
+    <li>Time Management</li>
+    <li>Teamwork</li>
+</ol>
+
+<hr>
+
+<p><b>Created by:</b> Nurul Syuhada Amran</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Education - Nurul Syuhada</title>
+</head>
+<body>
+
+<h1>My Education</h1>
+
+<a href="index.html">Home</a>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Year</th>
+        <th>Institution</th>
+    </tr>
+    <tr>
+        <td>2017-2021</td>
+        <td>Secondary School</td>
+    </tr>
+    <tr>
+        <td>2022-Present</td>
+        <td>Universiti Teknologi MARA (UiTM)</td>
+    </tr>
+</table>
+
+<img src="images/school.jpg" width="300" alt="School">
+
+<hr>
+
+<p><b>Created by:</b> Nurul Syuhada Amran</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Family - Nurul Syuhada</title>
+</head>
+<body>
+
+<h1>My Family</h1>
+
+<a href="index.html">Home</a>
+
+<img src="images/family.jpg" width="300" alt="Family Photo">
+
+<h2>Family Members</h2>
+
+<ul>
+    <li>Father</li>
+    <li>Mother</li>
+    <li>Brother</li>
+    <li>Sister</li>
+</ul>
+
+<p>
+My family is very supportive and always encourages me
+to achieve my goals.
+</p>
+
+<hr>
+
+<p><b>Created by:</b> Nurul Syuhada Amran</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gallery - Nurul Syuhada</title>
+</head>
+<body>
+
+<h1>My Gallery</h1>
+
+<a href="index.html">Home</a>
+
+<table>
+    <tr>
+        <td><img src="images/gallery1.jpg" width="200"></td>
+        <td><img src="images/gallery1.jpg" width="200"></td>
+    </tr>
+    <tr>
+        <td><img src="images/gallery1.jpg" width="200"></td>
+        <td><img src="images/gallery1.jpg" width="200"></td>
+    </tr>
+</table>
+
+<hr>
+
+<p><b>Created by:</b> Nurul Syuhada Amran</p>
+
+</body>
+</html>
